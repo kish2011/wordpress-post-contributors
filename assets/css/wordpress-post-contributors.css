@@ -1,0 +1,17 @@
+/*
+ * Basic styling for Wordpress Post Contributors
+ */
+ 
+ul.post-contributors-box  {
+	padding-left: 0;
+	margin-left: 0;
+	border: 1px solid #ccc;
+	padding: 2%;
+}
+ul.post-contributors-box li {
+	display: inline;
+	padding: 2% 2% 2% 0;
+}
+ul.post-contributors-box li span {
+	padding: 2%;
+}
