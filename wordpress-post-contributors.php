@@ -5,7 +5,7 @@ Plugin URI: https://github.com/kishoresahoo
 Description: Add an option to your posts to enable display of more than one author-name on a post on WordPress.
 Version: 1.0.
 Author: Kishore
-Author URI: http://blog.kishorechandra.co.in/
+Author URI: http://iamkisho.re
 Requires at least: 3.0
 Tested up to: 3.9
 Text Domain: post_contributors
